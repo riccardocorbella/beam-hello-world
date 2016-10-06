@@ -1,5 +1,9 @@
 # beam-hello-world
+
+### Descritption
 This project contains an implementation of the classic big data hello world (e.g. word count) with Apache Beam.
+
+### How to compile and run
 To comipile and run the project you can use the commands:
 ```shell
 mvn compile
