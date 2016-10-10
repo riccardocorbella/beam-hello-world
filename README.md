@@ -1,6 +1,6 @@
 # beam-hello-world
 
-### Descritption
+### Description
 This project contains an implementation of the classic big data hello world (e.g. word count) with Apache Beam.
 
 ### How to compile and run
